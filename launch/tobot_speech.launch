@@ -1,0 +1,7 @@
+<launch>
+
+	<include file="$(find tobot_speech)/launch/voice_nav_commands.launch"/>
+	<include file="$(find tobot_speech)/launch/tobot_talkback.launch"/>
+	<include file="$(find tobot_speech)/launch/tobot_voice_nav.launch"/>
+
+</launch>

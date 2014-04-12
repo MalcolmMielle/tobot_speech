@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/catkin_ws/src/Tobot/tobot_speech/build/devel/setup.sh
